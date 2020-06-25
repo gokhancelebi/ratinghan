@@ -1,0 +1,19 @@
+ul.rating-app  li{
+    list-style: none;
+    float:left;
+    margin:0;
+    padding:0;
+
+}
+ul.rating-app{
+    margin:0 ;
+    padding:0;
+    width: 100px;
+    margin-right: 10px;
+    padding-right: 10px;
+    display: inline-block;
+}
+
+.rating-divv {
+    background: #82adff;
+}
